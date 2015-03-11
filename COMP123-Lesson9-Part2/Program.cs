@@ -10,7 +10,8 @@ namespace COMP123_Lesson9_Part2
     {
         static void Main(string[] args)
         {
-            
+            Console.ReadKey();
+
         }
     }
 }
